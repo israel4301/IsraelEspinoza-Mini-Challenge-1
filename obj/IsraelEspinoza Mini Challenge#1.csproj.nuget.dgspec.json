@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Israel26\\Desktop\\CSA Combine\\Homework\\IsraelEspinoza Mini Challenge#1\\IsraelEspinoza Mini Challenge#1.csproj": {}
+    "C:\\Users\\Israel26\\Desktop\\Homework\\IsraelEspinoza Mini Challenge#1\\IsraelEspinoza Mini Challenge#1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Israel26\\Desktop\\CSA Combine\\Homework\\IsraelEspinoza Mini Challenge#1\\IsraelEspinoza Mini Challenge#1.csproj": {
+    "C:\\Users\\Israel26\\Desktop\\Homework\\IsraelEspinoza Mini Challenge#1\\IsraelEspinoza Mini Challenge#1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Israel26\\Desktop\\CSA Combine\\Homework\\IsraelEspinoza Mini Challenge#1\\IsraelEspinoza Mini Challenge#1.csproj",
+        "projectUniqueName": "C:\\Users\\Israel26\\Desktop\\Homework\\IsraelEspinoza Mini Challenge#1\\IsraelEspinoza Mini Challenge#1.csproj",
         "projectName": "IsraelEspinoza Mini Challenge#1",
-        "projectPath": "C:\\Users\\Israel26\\Desktop\\CSA Combine\\Homework\\IsraelEspinoza Mini Challenge#1\\IsraelEspinoza Mini Challenge#1.csproj",
+        "projectPath": "C:\\Users\\Israel26\\Desktop\\Homework\\IsraelEspinoza Mini Challenge#1\\IsraelEspinoza Mini Challenge#1.csproj",
         "packagesPath": "C:\\Users\\Israel26\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Israel26\\Desktop\\CSA Combine\\Homework\\IsraelEspinoza Mini Challenge#1\\obj\\",
+        "outputPath": "C:\\Users\\Israel26\\Desktop\\Homework\\IsraelEspinoza Mini Challenge#1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Israel26\\AppData\\Roaming\\NuGet\\NuGet.Config"

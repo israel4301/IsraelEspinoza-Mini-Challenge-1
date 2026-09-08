@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IsraelEspinoza Mini Challenge#1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c342a2834323bd16e3e24deb472e1a69cc1ebd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("IsraelEspinoza Mini Challenge#1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IsraelEspinoza Mini Challenge#1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
